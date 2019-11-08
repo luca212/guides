@@ -23,9 +23,9 @@ Unlaunch is a DSi bootcode exploit which will allow you to run HiyaCFW, a DSi Cu
 ![](images/2_camera.png)
 ![](images/3_hbmenu.png)
 
-5. Un fois dans Fwtool sélectionnez `Backup DSi Nand`, puis attendez ça devrait prendre une dizaine de minutes
+4. Un fois dans Fwtool sélectionnez `Backup DSi Nand`, puis attendez ça devrait prendre une dizaine de minutes
     * la backup est finie lorsque `saved nand.bin.sha1.` apparait
-6. Sélectionnez `Exit` et éteignez la console
+5. Sélectionnez `Exit` et éteignez la console
     
 ![](images/4_fwtool.png)
 ![](images/5_dsinand.png)
