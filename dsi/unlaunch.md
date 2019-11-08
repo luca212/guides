@@ -18,24 +18,29 @@ Unlaunch is a DSi bootcode exploit which will allow you to run HiyaCFW, a DSi Cu
 2. Vérifier que vous êtes dans l'onglet `Carte SD` puis sélectionner `Album`, Vous devriez aboutir sur l'application de la 3ème image
     * Si ce n'est pas le cas revérifier vos fichiers sur la carte sd
 3. Sélectionnez `fwtool.nds`
-4. Un fois dans Fwtool sélectionnez `Backup DSi Nand`, puis attendez ça devrait prendre une dizaine de minutes
-    * la backup est finie lorsque `saved nand.bin.sha1.` apparait
-5. Sélectionnez `Exit` et éteignez la console
-    
+
 ![](images/1_home.png)
 ![](images/2_camera.png)
 ![](images/3_hbmenu.png)
+
+4. Un fois dans Fwtool sélectionnez `Backup DSi Nand`, puis attendez ça devrait prendre une dizaine de minutes
+    * la backup est finie lorsque `saved nand.bin.sha1.` apparait
+5. Sélectionnez `Exit` et éteignez la console
+
 ![](images/4_fwtool.png)
 ![](images/5_dsinand.png)
 
 ## Installation d'Unlaunch
 
-1. Refaites les étapes 1 et 2 de la partie précédente
-2. Sélectionnez `UNLAUNCH.NDS`
-3. Sélectionnez `Install Now`
-4. Le menude la dernière image devrait apparaître lorsque vous démarrez la console
+1. Refaites les deux premières étapes de la partie précédente pour relancer le HBMenu
+2. Sélectionnez `UNLAUNCH.NDS`,le menu de la 2ème photo devrait apparaitre
 
 ![](images/6_hbmenu2.png)
 ![](images/7_ulinstaller.png)
+
+3. Sélectionnez `Install Now`
+4. Le menu de la dernière image devrait apparaître lorsque vous démarrez la console
+
+
 ![](images/8_installation.png)
 ![](images/9_ulmenu.png)
